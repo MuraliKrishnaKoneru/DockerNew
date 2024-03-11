@@ -19,4 +19,6 @@ steps:
   inputs:
     command: Build an image
     containerregistrytype: 'Container Registry'
-    dockerRegistryEndpoint: 
+    dockerRegistryEndpoint: MuraliDockerCICD
+    imageName: $(imageName)
+    restartPolicy: always
