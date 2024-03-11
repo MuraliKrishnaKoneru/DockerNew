@@ -23,3 +23,13 @@ steps:
     dockerFile: Dockerfile
     imageName: $(imageName)
     restartPolicy: always
+
+- task: Docker@1
+  displayName: 'Push an image'
+  inputs:
+    command: Push an image
+    containerregistrytype: 'Container Registry'
+    dockerRegistryEndpoint: MuraliDockerCICD
+    dockerFile: Dockerfile
+    imageName: $(imageName)
+    restartPolicy: always
