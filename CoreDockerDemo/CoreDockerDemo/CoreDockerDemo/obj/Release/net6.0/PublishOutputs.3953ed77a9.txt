@@ -1,0 +1,7 @@
+D:\DockerNew\CoreDockerDemo\CoreDockerDemo\CoreDockerDemo\obj\Docker\publish\CoreDockerDemo.exe
+D:\DockerNew\CoreDockerDemo\CoreDockerDemo\CoreDockerDemo\obj\Docker\publish\appsettings.Development.json
+D:\DockerNew\CoreDockerDemo\CoreDockerDemo\CoreDockerDemo\obj\Docker\publish\appsettings.json
+D:\DockerNew\CoreDockerDemo\CoreDockerDemo\CoreDockerDemo\obj\Docker\publish\CoreDockerDemo.dll
+D:\DockerNew\CoreDockerDemo\CoreDockerDemo\CoreDockerDemo\obj\Docker\publish\CoreDockerDemo.deps.json
+D:\DockerNew\CoreDockerDemo\CoreDockerDemo\CoreDockerDemo\obj\Docker\publish\CoreDockerDemo.runtimeconfig.json
+D:\DockerNew\CoreDockerDemo\CoreDockerDemo\CoreDockerDemo\obj\Docker\publish\CoreDockerDemo.pdb
